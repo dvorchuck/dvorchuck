@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dvorchuck
-- 👀 I’m interested in Programing, Data Science
+- 👀 I’m interested in Programming, Data Science
 - 🌱 I’m currently learning Data Science stack (Python + libs, Tableau, SQL) 
 
 <!---
