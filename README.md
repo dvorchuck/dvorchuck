@@ -5,6 +5,7 @@
 
 
 **My journey:**
+
 2018
 My first "hello world" was written on 23rd December 2018 while watching python tutorial by freeCodeCamp.
 I've tried to make a simple bot to automate a browser game.
