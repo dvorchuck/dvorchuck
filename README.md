@@ -40,14 +40,14 @@ Learning Data Science at work and creating first vizualizations for the clients.
 - Tableau
 
 I've revisited python again and decided to use it for scrapping. (in progress)
-- Scrapy
-- Selenium
+- Scrapy, scrapyd
+- Selenium, BeautifulSoup4
 - MongoDB
 
 
 Future:
-- Learning Go, because it's strongly typed and should be faster than server-side JS or python.
-- dvorak keyboard layout
+- Learning Go.
+- Build Node.js Backend based project
 - switching to Linux (unfortunately Tableau is not supported > dual boot) 
 
 <!---
