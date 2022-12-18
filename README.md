@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dvorchuck
-- 👀 I’m interested in Programming, Data Science
+- 👀 I’m interested in Software Engineering, Data Science
 - 🌱 I’m currently learning Data Science stack (Python + libs, Tableau, SQL) 
-
-
 
 **My journey:**
 
@@ -23,7 +21,7 @@ Working with APIs of CRMs (Close.com, Pipedrive, HubSpot) and PM tools (ClickUp)
 - Async JS
 
 2021
-Building internal database with oversight of senior developer.
+Building internal database with oversight of external senior developer.
 I was finally introduced to real world stack for development:
 - TypeScript
 - MongoDB
@@ -39,16 +37,19 @@ Learning Data Science at work and creating first vizualizations for the clients.
 - SQL
 - Tableau
 
-I've revisited python again and decided to use it for scrapping. (in progress)
+I've revisited python again and decided to try it for scrapping.
 - Scrapy, scrapyd
 - Selenium, BeautifulSoup4
 - MongoDB
 
+I've decidec to switch to python instead of JavaScript. When I needed to extract data from REST API.
+I was a way more pleasant especially with Jupyter notebook.
+
 
 Future:
-- Learning Go.
-- Build Node.js Backend based project
-- switching to Linux (unfortunately Tableau is not supported > dual boot) 
+- Building portfolio.
+- Learning docker.
+- Deploying my first web server.
 
 <!---
 dvorchuck/dvorchuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
