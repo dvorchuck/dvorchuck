@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvorchuck
 - 👀 I’m interested in Software Engineering, Data Science
-- 🌱 I’m currently learning Data Science stack (Python + libs, Tableau, SQL) 
+- 🌱 I’m currently doing Advent of Code 2022 with Python 
 
 **My journey:**
 
