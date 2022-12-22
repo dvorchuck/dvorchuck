@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvorchuck
 - 👀 I’m interested in Software Engineering, Data Science
-- 🌱 I’m currently doing Advent of Code 2022 with Python 
+- 🌱 I’m currently learning Node.js roadmap https://raw.githubusercontent.com/saifaustcse/nodejs-developer-roadmap/master/images/nodejs-developer-roadmap.png
 
 **My journey:**
 
@@ -45,6 +45,7 @@ I've revisited python again and decided to try it for scrapping.
 I've decidec to switch to python instead of JavaScript. When I needed to extract data from REST API.
 I was a way more pleasant especially with Jupyter notebook.
 
+I've decided to build app with Node.js for my personal project
 
 Future:
 - Building portfolio.
