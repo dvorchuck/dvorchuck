@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dvorchuck
-- 👀 I’m interested in Software Engineering, Data Science
+- 👀 I’m interested in Software Engineering, Data Engineering
 - 🌱 I’m currently learning Node.js roadmap https://raw.githubusercontent.com/saifaustcse/nodejs-developer-roadmap/master/images/nodejs-developer-roadmap.png
 
 **My journey:**
