@@ -26,7 +26,8 @@ I was finally introduced to real world stack for development:
 - TypeScript
 - MongoDB
 - Jest
-- Git
+- Git  
+
 A bit owerwhelming to learn all at the same time, that resulted to vague use of types and tests in the start.
 
 Later this year I took a Java course at school. I fell in love with the statically typed nature and its tooling. 
